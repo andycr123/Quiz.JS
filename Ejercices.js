@@ -1,3 +1,4 @@
+// Google Doc (https://docs.google.com/document/d/16--vWnTlsm1JOBjcfKSctIfMuRRZBfLbH-r7YVuNRgU/edit?usp=sharing)
 //  Ejercicios básicos:
 
 // 1. **Ejercicio de Variables y Operaciones:**
